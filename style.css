@@ -139,7 +139,7 @@ section {
     background: url(images/h2.jpg) no-repeat;
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;  
+/*     background-attachment: fixed;   */
 }
 
 .card {
@@ -281,7 +281,7 @@ section {
     background: url(images/h.jpg) no-repeat;
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
+/*     background-attachment: fixed; */
     color: #fff;
     padding: 1.2em;
     display: flex;
